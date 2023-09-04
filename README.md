@@ -2,7 +2,7 @@
 Gallery Application - UX/UI Design Figma Project.
 
 FIGMA LINK:
-<br><br/>
+
 <a>https://www.figma.com/proto/1gdKMhDkHstn7OYpcBK0LI/Stock-Photos-Shop?type=design&node-id=22-1&t=oNy99UgZfD7pI8Yo-0&scaling=min-zoom&page-id=0%3A1</a>
 <br><br/>
 
